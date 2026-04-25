@@ -1,7 +1,7 @@
 # Accredian Enterprise Landing Page Clone
 
 ## 🚀 Live Demo
-(Paste your Vercel link here after deployment)
+https://accredian-enterprise-clone-72hp.vercel.app/
 
 ## 🛠️ Tech Stack
 - Next.js (App Router)
